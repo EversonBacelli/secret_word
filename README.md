@@ -1,5 +1,6 @@
 # secret_word
 Projeto desenvolvido para fixar conceitos elementares de REACT
+<br>
 <img src="https://raw.githubusercontent.com/react-icons/react-icons/master/react-icons.svg" width="120" alt="React Icons">
 
 | Tópicos Colocados em Prática          |  Objetivo                                                     | 
