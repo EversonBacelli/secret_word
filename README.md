@@ -2,7 +2,7 @@
 Projeto desenvolvido para fixar conceitos elementares de REACT
 <img src="https://raw.githubusercontent.com/react-icons/react-icons/master/react-icons.svg" width="120" alt="React Icons">
 
-| Tópicos Colocados em Prática                                                                                                                                                  | License                               | Objetivo                                                      | 
+| Tópicos Colocados em Prática          |  Objetivo                                                     | 
 | ------------------------------------  | --------------------------------------------------------------| 
 | Componentes                           | Dividir responsabilidade e aumentar o reuso                   |
 | Props                                 | Transferir informações entre componentes                      |
